@@ -1,0 +1,5 @@
+insert into users(nama, username, password, role) values
+('Admin','admin','$2y$10$yWIAhpkd5qYVpXufce27NOdjJUM3vqVg2.6KhMgC9Hl6ondzA9TCa','superadmin');
+
+insert into users(nama, username, password, role) values
+('Krisnadi','nadi','$2y$10$ZAYlGYVlwrHZkutVaWpxLO1jMf8e22ckSejo9XTrCTqZKyL.rOObC','admin');
